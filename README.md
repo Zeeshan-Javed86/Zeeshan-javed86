@@ -53,7 +53,6 @@ From **high-performance mobile apps** to **scalable backends**, I make sure ever
 
 ---
 
-## 🚀 **Fun GIFs to Keep it Interesting**
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
 </p>
@@ -64,9 +63,9 @@ From **high-performance mobile apps** to **scalable backends**, I make sure ever
 
 ---
 
-## 🔥 **Random Dev Quote**
+## 🔥
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
 ---
 
-👀 **Feel free to explore my repos and drop a star ⭐ if you like my work!**  
+👀 **Let's connect for your Million dollar project ⭐**  
